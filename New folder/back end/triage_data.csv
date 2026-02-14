@@ -1,0 +1,1001 @@
+Age,Blood_Pressure,Heart_Rate,Temperature,Condition,Symptoms,Risk_Level,Department
+18,159,80,101.4,None,Chest Pain,Medium,Cardiology
+90,125,98,102.0,Diabetes,Breathing Issue,Medium,Emergency
+73,176,121,102.4,Heart Disease,Headache,High,Neurology
+78,146,64,100.2,Diabetes,Headache,Medium,Neurology
+62,179,96,102.0,Diabetes,Headache,High,Neurology
+41,158,120,99.8,None,Headache,Medium,Neurology
+30,141,86,98.6,Hypertension,Fever,Medium,General Medicine
+27,161,124,102.1,None,Headache,High,Neurology
+2,145,125,101.4,Heart Disease,Fever,High,General Medicine
+51,105,129,98.9,Heart Disease,Chest Pain,High,Cardiology
+29,133,72,103.0,Diabetes,Headache,High,Neurology
+90,100,112,97.8,Diabetes,Chest Pain,Low,Cardiology
+87,170,103,99.1,Diabetes,Fever,High,General Medicine
+50,171,81,103.4,Hypertension,Chest Pain,High,Cardiology
+83,141,73,98.3,None,Fever,Medium,General Medicine
+57,152,105,99.1,Hypertension,Fever,Medium,General Medicine
+35,153,107,101.4,None,Fever,Medium,General Medicine
+55,148,126,100.7,Heart Disease,Fever,High,General Medicine
+38,112,122,97.5,None,Headache,High,Neurology
+14,151,85,97.7,Heart Disease,Breathing Issue,Medium,Emergency
+54,165,91,99.5,Diabetes,Chest Pain,High,Cardiology
+69,160,126,99.3,Diabetes,Headache,High,Neurology
+16,151,78,100.8,Diabetes,Headache,Medium,Neurology
+50,120,82,103.7,Heart Disease,Breathing Issue,High,Emergency
+63,116,109,101.7,Hypertension,Fever,Medium,General Medicine
+39,147,136,97.3,Diabetes,Headache,High,Neurology
+69,113,99,102.9,None,Breathing Issue,High,Emergency
+69,163,78,99.7,Heart Disease,Chest Pain,High,Cardiology
+24,132,122,101.7,Hypertension,Fever,High,General Medicine
+90,132,68,97.0,Hypertension,Fever,Low,General Medicine
+72,106,137,102.2,None,Breathing Issue,High,Emergency
+23,92,128,103.7,Hypertension,Chest Pain,High,Cardiology
+19,93,61,99.7,Heart Disease,Headache,Low,Neurology
+64,153,94,99.7,Heart Disease,Breathing Issue,Medium,Emergency
+32,149,95,97.4,None,Fever,Medium,General Medicine
+28,114,69,98.9,None,Fever,Low,General Medicine
+82,113,100,98.6,Heart Disease,Breathing Issue,Low,Emergency
+55,159,118,99.0,Heart Disease,Breathing Issue,Medium,Emergency
+34,109,113,102.5,Hypertension,Breathing Issue,High,Emergency
+65,180,129,97.1,Heart Disease,Fever,High,General Medicine
+20,179,78,97.2,None,Headache,High,Neurology
+48,109,115,102.7,Diabetes,Headache,High,Neurology
+78,136,94,102.5,None,Fever,High,General Medicine
+47,159,100,101.8,Diabetes,Chest Pain,Medium,Cardiology
+5,140,62,99.4,Hypertension,Fever,Low,General Medicine
+16,108,121,99.1,None,Headache,High,Neurology
+69,92,114,100.3,Hypertension,Chest Pain,Medium,Cardiology
+81,144,88,102.6,Diabetes,Chest Pain,High,Cardiology
+85,130,133,100.8,Heart Disease,Chest Pain,High,Cardiology
+43,98,109,98.6,Heart Disease,Fever,Low,General Medicine
+89,95,78,100.1,Heart Disease,Headache,Medium,Neurology
+9,120,73,101.2,Diabetes,Headache,Medium,Neurology
+47,166,64,102.9,Heart Disease,Breathing Issue,High,Emergency
+40,164,97,102.6,Heart Disease,Fever,High,General Medicine
+85,148,129,100.0,Diabetes,Headache,High,Neurology
+44,90,105,103.1,Hypertension,Chest Pain,High,Cardiology
+38,124,104,103.0,None,Fever,High,General Medicine
+41,152,103,101.0,None,Headache,Medium,Neurology
+34,171,120,101.6,Heart Disease,Headache,High,Neurology
+90,110,124,101.6,None,Headache,High,Neurology
+43,143,135,100.0,Heart Disease,Chest Pain,High,Cardiology
+84,174,119,102.1,Diabetes,Fever,High,General Medicine
+31,144,62,100.2,Heart Disease,Headache,Medium,Neurology
+12,146,114,100.9,Hypertension,Headache,Medium,Neurology
+77,110,107,99.5,Diabetes,Breathing Issue,Low,Emergency
+50,127,64,102.5,None,Breathing Issue,High,Emergency
+20,151,134,97.9,None,Headache,High,Neurology
+46,107,115,102.0,Diabetes,Headache,Medium,Neurology
+6,160,118,102.9,Heart Disease,Fever,High,General Medicine
+2,136,99,99.4,Heart Disease,Chest Pain,Low,Cardiology
+5,100,79,102.5,Diabetes,Chest Pain,High,Cardiology
+14,113,109,99.9,None,Breathing Issue,Low,Emergency
+72,166,89,99.7,None,Fever,High,General Medicine
+82,112,118,99.3,None,Fever,Low,General Medicine
+78,92,75,103.2,Hypertension,Chest Pain,High,Cardiology
+19,101,118,102.7,None,Fever,High,General Medicine
+88,164,140,102.9,Diabetes,Breathing Issue,High,Emergency
+58,118,90,100.3,None,Fever,Medium,General Medicine
+43,128,64,100.2,None,Headache,Medium,Neurology
+86,118,80,103.2,None,Chest Pain,High,Cardiology
+65,113,85,102.8,None,Headache,High,Neurology
+21,179,80,100.4,Heart Disease,Fever,High,General Medicine
+42,158,96,100.5,Hypertension,Headache,Medium,Neurology
+19,103,99,100.4,Diabetes,Fever,Medium,General Medicine
+88,123,117,103.6,Heart Disease,Chest Pain,High,Cardiology
+85,105,132,97.4,Hypertension,Fever,High,General Medicine
+61,159,133,103.7,None,Breathing Issue,High,Emergency
+33,127,77,97.8,None,Chest Pain,Low,Cardiology
+1,146,72,98.8,Hypertension,Chest Pain,Medium,Cardiology
+45,133,86,97.8,None,Fever,Low,General Medicine
+66,96,87,103.6,None,Headache,High,Neurology
+82,125,90,99.2,Diabetes,Fever,Low,General Medicine
+14,111,109,102.6,Hypertension,Chest Pain,High,Cardiology
+15,160,65,99.1,Hypertension,Headache,Medium,Neurology
+11,120,90,102.1,Heart Disease,Fever,High,General Medicine
+74,109,101,100.5,None,Fever,Medium,General Medicine
+37,157,125,102.9,Diabetes,Fever,High,General Medicine
+56,110,78,102.5,Heart Disease,Chest Pain,High,Cardiology
+68,125,120,103.7,Heart Disease,Headache,High,Neurology
+55,110,98,97.4,Hypertension,Chest Pain,Low,Cardiology
+35,170,87,97.9,Hypertension,Headache,High,Neurology
+49,105,97,97.5,Hypertension,Breathing Issue,Low,Emergency
+18,123,124,99.1,None,Headache,High,Neurology
+52,121,76,101.1,Hypertension,Breathing Issue,Medium,Emergency
+45,98,92,99.2,Diabetes,Headache,Low,Neurology
+29,172,71,101.6,Hypertension,Chest Pain,High,Cardiology
+75,157,118,101.5,Diabetes,Breathing Issue,Medium,Emergency
+86,162,96,103.2,Diabetes,Headache,High,Neurology
+82,102,132,97.6,Heart Disease,Chest Pain,High,Cardiology
+7,154,112,98.2,Hypertension,Chest Pain,Medium,Cardiology
+42,100,65,102.0,Diabetes,Headache,Medium,Neurology
+78,133,101,99.4,Hypertension,Breathing Issue,Low,Emergency
+73,94,106,98.8,None,Breathing Issue,Low,Emergency
+79,171,67,102.9,None,Fever,High,General Medicine
+28,160,61,103.7,None,Headache,High,Neurology
+37,157,101,97.9,Hypertension,Fever,Medium,General Medicine
+28,113,109,102.5,Hypertension,Fever,High,General Medicine
+59,137,97,99.3,Diabetes,Breathing Issue,Low,Emergency
+10,109,72,103.9,None,Breathing Issue,High,Emergency
+14,110,75,97.5,Hypertension,Chest Pain,Low,Cardiology
+38,147,77,101.8,Diabetes,Breathing Issue,Medium,Emergency
+31,100,115,100.5,Diabetes,Breathing Issue,Medium,Emergency
+5,111,74,98.2,Hypertension,Chest Pain,Low,Cardiology
+46,130,125,98.8,Heart Disease,Headache,High,Neurology
+14,94,83,100.0,Hypertension,Headache,Low,Neurology
+43,98,111,97.0,Diabetes,Headache,Low,Neurology
+64,104,138,97.1,Hypertension,Headache,High,Neurology
+10,127,69,98.0,Hypertension,Breathing Issue,Low,Emergency
+83,164,123,97.1,Hypertension,Fever,High,General Medicine
+42,127,96,100.6,None,Fever,Medium,General Medicine
+38,118,71,102.5,Hypertension,Headache,High,Neurology
+38,141,118,101.1,Diabetes,Fever,Medium,General Medicine
+51,115,83,101.5,Heart Disease,Chest Pain,Medium,Cardiology
+50,160,121,101.5,Hypertension,Headache,High,Neurology
+54,137,109,102.9,Hypertension,Chest Pain,High,Cardiology
+17,161,131,100.9,Hypertension,Fever,High,General Medicine
+25,122,67,100.5,Heart Disease,Chest Pain,Medium,Cardiology
+84,135,124,102.0,Hypertension,Breathing Issue,High,Emergency
+43,173,110,102.5,Heart Disease,Chest Pain,High,Cardiology
+65,113,61,97.3,Diabetes,Breathing Issue,Low,Emergency
+84,123,125,97.6,None,Headache,High,Neurology
+19,113,98,103.6,Heart Disease,Fever,High,General Medicine
+61,170,131,103.3,None,Headache,High,Neurology
+68,157,128,100.2,Diabetes,Headache,High,Neurology
+66,170,116,97.8,Diabetes,Breathing Issue,High,Emergency
+28,149,91,101.5,Hypertension,Fever,Medium,General Medicine
+69,142,67,99.7,Diabetes,Chest Pain,Medium,Cardiology
+57,135,110,98.0,Diabetes,Breathing Issue,Low,Emergency
+42,161,140,97.2,Diabetes,Breathing Issue,High,Emergency
+78,102,136,102.9,None,Chest Pain,High,Cardiology
+32,119,101,98.2,None,Fever,Low,General Medicine
+48,141,101,100.1,Diabetes,Fever,Medium,General Medicine
+67,114,113,100.7,Diabetes,Headache,Medium,Neurology
+24,152,139,99.4,Diabetes,Headache,High,Neurology
+62,174,67,103.0,Heart Disease,Breathing Issue,High,Emergency
+67,90,120,99.7,Heart Disease,Headache,Low,Neurology
+65,102,122,97.5,Hypertension,Headache,High,Neurology
+71,177,84,103.6,Heart Disease,Headache,High,Neurology
+54,113,106,103.5,Heart Disease,Fever,High,General Medicine
+49,135,88,100.7,Heart Disease,Chest Pain,Medium,Cardiology
+34,110,124,99.0,None,Chest Pain,High,Cardiology
+61,96,86,101.3,Hypertension,Headache,Medium,Neurology
+87,108,70,98.5,Heart Disease,Headache,Low,Neurology
+60,125,113,99.9,Hypertension,Fever,Low,General Medicine
+28,174,136,102.1,None,Breathing Issue,High,Emergency
+63,128,120,100.5,Hypertension,Headache,Medium,Neurology
+44,109,135,101.2,Heart Disease,Chest Pain,High,Cardiology
+35,102,135,99.4,Hypertension,Headache,High,Neurology
+8,118,123,99.9,None,Headache,High,Neurology
+51,102,108,99.2,None,Chest Pain,Low,Cardiology
+53,135,117,103.3,Heart Disease,Headache,High,Neurology
+18,100,65,98.8,Hypertension,Fever,Low,General Medicine
+70,139,87,101.1,Heart Disease,Fever,Medium,General Medicine
+53,160,129,102.6,Diabetes,Fever,High,General Medicine
+39,148,137,103.5,Hypertension,Breathing Issue,High,Emergency
+64,142,91,102.8,Diabetes,Chest Pain,High,Cardiology
+29,90,60,99.6,Diabetes,Chest Pain,Low,Cardiology
+55,171,93,101.9,Heart Disease,Chest Pain,High,Cardiology
+87,127,102,102.9,Diabetes,Breathing Issue,High,Emergency
+84,110,100,98.0,Hypertension,Headache,Low,Neurology
+65,120,89,102.5,Heart Disease,Headache,High,Neurology
+52,144,82,102.4,None,Chest Pain,High,Cardiology
+69,161,113,102.6,Heart Disease,Fever,High,General Medicine
+9,173,140,97.0,Diabetes,Chest Pain,High,Cardiology
+53,149,100,98.2,None,Breathing Issue,Medium,Emergency
+53,130,89,98.7,Hypertension,Chest Pain,Low,Cardiology
+59,90,131,102.3,Diabetes,Chest Pain,High,Cardiology
+60,136,94,103.7,Diabetes,Headache,High,Neurology
+65,159,93,98.7,Hypertension,Headache,Medium,Neurology
+14,93,131,99.2,Heart Disease,Chest Pain,High,Cardiology
+69,111,132,101.8,Hypertension,Chest Pain,High,Cardiology
+50,177,83,100.1,None,Fever,High,General Medicine
+26,162,88,103.6,None,Headache,High,Neurology
+15,164,91,97.4,Heart Disease,Headache,High,Neurology
+49,91,93,99.4,Hypertension,Breathing Issue,Low,Emergency
+46,96,116,99.7,Diabetes,Headache,Low,Neurology
+57,169,119,99.4,Heart Disease,Chest Pain,High,Cardiology
+60,113,112,98.6,None,Breathing Issue,Low,Emergency
+28,117,74,101.2,None,Chest Pain,Medium,Cardiology
+76,90,72,99.2,None,Chest Pain,Low,Cardiology
+1,98,71,101.7,None,Breathing Issue,Medium,Emergency
+62,178,90,100.6,Hypertension,Chest Pain,High,Cardiology
+44,108,63,102.5,Diabetes,Breathing Issue,High,Emergency
+39,143,134,100.2,None,Breathing Issue,High,Emergency
+8,94,102,103.6,None,Chest Pain,High,Cardiology
+68,90,75,101.1,Heart Disease,Headache,Medium,Neurology
+40,149,62,103.5,Heart Disease,Headache,High,Neurology
+51,146,89,99.1,Heart Disease,Breathing Issue,Medium,Emergency
+62,173,86,101.5,Heart Disease,Breathing Issue,High,Emergency
+78,143,126,99.8,Diabetes,Headache,High,Neurology
+2,107,90,99.8,Diabetes,Fever,Low,General Medicine
+66,137,63,98.9,None,Breathing Issue,Low,Emergency
+42,178,81,102.8,Diabetes,Chest Pain,High,Cardiology
+64,162,60,98.1,Diabetes,Fever,High,General Medicine
+5,156,98,98.6,None,Fever,Medium,General Medicine
+87,147,88,101.4,Diabetes,Breathing Issue,Medium,Emergency
+28,92,68,98.9,Diabetes,Chest Pain,Low,Cardiology
+37,168,136,102.4,Hypertension,Breathing Issue,High,Emergency
+88,111,121,98.6,None,Fever,High,General Medicine
+84,138,88,97.5,Diabetes,Fever,Low,General Medicine
+14,127,108,102.7,Hypertension,Headache,High,Neurology
+18,97,77,103.6,Diabetes,Fever,High,General Medicine
+90,126,83,99.5,Diabetes,Fever,Low,General Medicine
+41,177,85,101.2,Hypertension,Breathing Issue,High,Emergency
+78,128,108,102.3,Hypertension,Chest Pain,High,Cardiology
+48,91,90,103.5,Hypertension,Headache,High,Neurology
+76,125,140,100.4,None,Fever,High,General Medicine
+71,113,92,102.3,None,Breathing Issue,High,Emergency
+83,101,121,101.5,Diabetes,Chest Pain,High,Cardiology
+49,126,75,99.9,Diabetes,Headache,Low,Neurology
+5,124,119,101.8,Diabetes,Chest Pain,Medium,Cardiology
+3,176,65,103.3,Diabetes,Chest Pain,High,Cardiology
+33,94,99,97.2,Hypertension,Chest Pain,Low,Cardiology
+27,140,74,103.7,Hypertension,Fever,High,General Medicine
+58,159,63,103.6,Diabetes,Chest Pain,High,Cardiology
+46,161,87,98.3,Hypertension,Chest Pain,High,Cardiology
+29,157,63,102.4,Heart Disease,Headache,High,Neurology
+66,100,139,99.9,Diabetes,Chest Pain,High,Cardiology
+63,102,108,103.1,Diabetes,Headache,High,Neurology
+90,119,97,100.5,None,Chest Pain,Medium,Cardiology
+9,135,131,102.1,Diabetes,Chest Pain,High,Cardiology
+35,180,68,99.9,Hypertension,Headache,High,Neurology
+82,179,75,100.8,Heart Disease,Fever,High,General Medicine
+23,166,138,98.2,Diabetes,Chest Pain,High,Cardiology
+84,145,130,98.0,None,Breathing Issue,High,Emergency
+35,129,84,100.6,None,Breathing Issue,Medium,Emergency
+58,164,121,100.2,Diabetes,Headache,High,Neurology
+66,141,88,99.7,Heart Disease,Breathing Issue,Medium,Emergency
+39,161,105,101.0,Heart Disease,Chest Pain,High,Cardiology
+28,167,68,100.5,Hypertension,Headache,High,Neurology
+74,141,77,103.4,None,Chest Pain,High,Cardiology
+42,127,107,97.3,None,Headache,Low,Neurology
+79,122,129,98.9,Heart Disease,Fever,High,General Medicine
+28,161,64,102.0,Diabetes,Breathing Issue,High,Emergency
+23,137,60,101.2,Heart Disease,Headache,Medium,Neurology
+60,124,68,98.8,Diabetes,Chest Pain,Low,Cardiology
+84,124,138,102.1,Diabetes,Breathing Issue,High,Emergency
+59,108,123,101.7,None,Fever,High,General Medicine
+5,91,80,98.5,None,Chest Pain,Low,Cardiology
+38,160,119,99.9,None,Fever,Medium,General Medicine
+25,97,84,99.2,Diabetes,Fever,Low,General Medicine
+88,140,82,102.4,Heart Disease,Breathing Issue,High,Emergency
+5,157,110,100.2,None,Chest Pain,Medium,Cardiology
+51,143,101,98.0,Hypertension,Fever,Medium,General Medicine
+86,146,78,103.6,Diabetes,Headache,High,Neurology
+49,171,103,100.2,Hypertension,Fever,High,General Medicine
+89,144,86,103.3,Hypertension,Headache,High,Neurology
+64,107,90,99.9,Hypertension,Breathing Issue,Low,Emergency
+87,168,89,100.0,Heart Disease,Fever,High,General Medicine
+31,116,62,99.0,Hypertension,Chest Pain,Low,Cardiology
+38,139,77,103.4,Heart Disease,Breathing Issue,High,Emergency
+45,110,137,97.4,Diabetes,Fever,High,General Medicine
+5,111,98,98.7,None,Chest Pain,Low,Cardiology
+62,141,116,103.1,Heart Disease,Headache,High,Neurology
+39,119,139,100.5,Hypertension,Fever,High,General Medicine
+34,107,125,97.1,None,Breathing Issue,High,Emergency
+68,142,69,103.1,Diabetes,Chest Pain,High,Cardiology
+46,115,126,102.4,Heart Disease,Headache,High,Neurology
+20,137,60,101.1,Diabetes,Chest Pain,Medium,Cardiology
+7,156,87,102.6,Hypertension,Fever,High,General Medicine
+88,169,94,99.8,Diabetes,Headache,High,Neurology
+53,173,99,98.4,Diabetes,Breathing Issue,High,Emergency
+30,162,133,99.1,None,Breathing Issue,High,Emergency
+72,99,62,101.2,None,Fever,Medium,General Medicine
+77,102,61,97.3,None,Chest Pain,Low,Cardiology
+12,126,137,100.5,Hypertension,Fever,High,General Medicine
+5,153,115,99.2,Hypertension,Breathing Issue,Medium,Emergency
+57,119,140,100.8,Hypertension,Headache,High,Neurology
+86,93,90,102.9,Diabetes,Fever,High,General Medicine
+40,101,67,102.1,None,Chest Pain,High,Cardiology
+58,174,62,103.6,None,Fever,High,General Medicine
+24,169,64,97.9,Hypertension,Headache,High,Neurology
+33,104,68,102.8,Heart Disease,Fever,High,General Medicine
+68,105,140,101.6,Hypertension,Breathing Issue,High,Emergency
+40,163,91,102.7,Heart Disease,Chest Pain,High,Cardiology
+33,160,107,100.8,Heart Disease,Headache,Medium,Neurology
+7,134,95,98.2,None,Headache,Low,Neurology
+32,126,121,97.7,None,Fever,High,General Medicine
+49,145,113,100.0,Heart Disease,Headache,Medium,Neurology
+2,148,136,103.5,Heart Disease,Chest Pain,High,Cardiology
+30,141,84,103.8,Diabetes,Chest Pain,High,Cardiology
+68,174,69,98.7,Diabetes,Fever,High,General Medicine
+51,107,92,98.1,None,Headache,Low,Neurology
+50,170,68,103.2,None,Headache,High,Neurology
+39,176,117,98.6,None,Breathing Issue,High,Emergency
+39,92,83,98.8,Hypertension,Headache,Low,Neurology
+57,159,76,99.3,Hypertension,Breathing Issue,Medium,Emergency
+42,149,77,103.8,Diabetes,Headache,High,Neurology
+14,109,71,97.6,Hypertension,Chest Pain,Low,Cardiology
+55,154,139,101.8,None,Headache,High,Neurology
+46,128,77,100.2,Diabetes,Fever,Medium,General Medicine
+66,91,64,98.0,Hypertension,Breathing Issue,Low,Emergency
+16,160,134,103.8,Diabetes,Headache,High,Neurology
+31,124,116,99.5,None,Fever,Low,General Medicine
+2,99,129,100.3,Heart Disease,Breathing Issue,High,Emergency
+18,163,108,98.2,Heart Disease,Headache,High,Neurology
+70,102,67,101.9,Diabetes,Breathing Issue,Medium,Emergency
+8,110,91,101.4,None,Chest Pain,Medium,Cardiology
+29,173,140,101.9,Diabetes,Chest Pain,High,Cardiology
+68,177,88,97.4,Heart Disease,Chest Pain,High,Cardiology
+65,109,110,98.5,Hypertension,Chest Pain,Low,Cardiology
+31,132,84,103.7,Hypertension,Fever,High,General Medicine
+46,149,93,97.1,Hypertension,Breathing Issue,Medium,Emergency
+86,121,119,97.9,Hypertension,Headache,Low,Neurology
+37,151,139,101.3,Heart Disease,Breathing Issue,High,Emergency
+90,158,88,97.3,Heart Disease,Chest Pain,Medium,Cardiology
+73,175,69,102.0,Diabetes,Breathing Issue,High,Emergency
+5,176,75,102.3,Hypertension,Chest Pain,High,Cardiology
+67,124,112,99.6,Hypertension,Fever,Low,General Medicine
+41,102,101,97.8,Heart Disease,Chest Pain,Low,Cardiology
+68,172,100,101.6,Hypertension,Headache,High,Neurology
+60,113,85,100.5,None,Breathing Issue,Medium,Emergency
+50,165,67,102.2,Hypertension,Breathing Issue,High,Emergency
+68,147,129,97.5,Hypertension,Headache,High,Neurology
+18,120,94,103.6,Heart Disease,Chest Pain,High,Cardiology
+16,152,126,98.0,Hypertension,Chest Pain,High,Cardiology
+52,101,124,103.7,Heart Disease,Breathing Issue,High,Emergency
+28,172,115,101.9,None,Breathing Issue,High,Emergency
+71,124,120,103.6,Hypertension,Headache,High,Neurology
+58,153,66,97.1,Diabetes,Headache,Medium,Neurology
+25,174,140,101.5,Diabetes,Breathing Issue,High,Emergency
+66,115,113,100.4,Heart Disease,Chest Pain,Medium,Cardiology
+8,157,134,101.2,None,Fever,High,General Medicine
+62,90,106,99.3,Diabetes,Chest Pain,Low,Cardiology
+44,148,127,101.3,Heart Disease,Breathing Issue,High,Emergency
+72,161,136,102.4,None,Headache,High,Neurology
+18,162,135,100.1,Diabetes,Breathing Issue,High,Emergency
+3,147,120,102.9,Diabetes,Breathing Issue,High,Emergency
+44,102,105,104.0,Heart Disease,Fever,High,General Medicine
+61,131,111,100.6,Hypertension,Headache,Medium,Neurology
+38,139,126,102.2,Heart Disease,Breathing Issue,High,Emergency
+61,119,77,98.8,Hypertension,Chest Pain,Low,Cardiology
+43,92,77,98.7,Heart Disease,Breathing Issue,Low,Emergency
+71,170,66,99.4,None,Breathing Issue,High,Emergency
+88,162,74,103.2,Heart Disease,Fever,High,General Medicine
+48,104,104,98.6,None,Chest Pain,Low,Cardiology
+32,150,95,99.3,None,Breathing Issue,Medium,Emergency
+48,100,136,103.3,None,Chest Pain,High,Cardiology
+39,140,108,101.1,Diabetes,Chest Pain,Medium,Cardiology
+75,96,81,100.1,Heart Disease,Chest Pain,Medium,Cardiology
+41,115,84,97.2,Hypertension,Fever,Low,General Medicine
+17,139,70,102.0,None,Breathing Issue,Medium,Emergency
+88,119,68,101.7,Diabetes,Fever,Medium,General Medicine
+35,130,71,98.1,None,Chest Pain,Low,Cardiology
+28,134,108,104.0,Hypertension,Chest Pain,High,Cardiology
+14,137,116,99.2,Hypertension,Fever,Low,General Medicine
+64,121,119,100.2,Hypertension,Chest Pain,Medium,Cardiology
+36,126,88,103.1,Hypertension,Headache,High,Neurology
+25,110,91,102.7,None,Breathing Issue,High,Emergency
+59,148,86,98.5,Heart Disease,Chest Pain,Medium,Cardiology
+17,141,89,100.0,Hypertension,Chest Pain,Medium,Cardiology
+52,160,104,103.5,Diabetes,Chest Pain,High,Cardiology
+55,164,65,99.3,None,Headache,High,Neurology
+40,120,99,97.3,Heart Disease,Chest Pain,Low,Cardiology
+77,123,118,100.5,Hypertension,Fever,Medium,General Medicine
+3,180,121,103.6,Hypertension,Chest Pain,High,Cardiology
+3,94,131,100.7,None,Chest Pain,High,Cardiology
+74,115,126,98.3,Hypertension,Headache,High,Neurology
+82,154,126,97.3,None,Breathing Issue,High,Emergency
+90,103,66,97.5,None,Headache,Low,Neurology
+31,158,74,97.7,Heart Disease,Breathing Issue,Medium,Emergency
+63,174,137,102.5,Hypertension,Fever,High,General Medicine
+49,157,113,103.2,Heart Disease,Breathing Issue,High,Emergency
+75,117,83,103.9,None,Breathing Issue,High,Emergency
+45,138,114,102.4,Heart Disease,Breathing Issue,High,Emergency
+34,150,101,100.9,Hypertension,Headache,Medium,Neurology
+35,150,60,103.5,Diabetes,Headache,High,Neurology
+24,98,121,100.9,Heart Disease,Chest Pain,High,Cardiology
+74,126,94,97.6,Hypertension,Chest Pain,Low,Cardiology
+61,143,75,103.6,Diabetes,Breathing Issue,High,Emergency
+6,93,95,103.1,Diabetes,Fever,High,General Medicine
+7,138,90,98.7,Hypertension,Fever,Low,General Medicine
+67,113,98,103.4,None,Fever,High,General Medicine
+26,140,72,97.9,None,Breathing Issue,Low,Emergency
+46,141,126,101.4,Diabetes,Breathing Issue,High,Emergency
+25,180,90,97.8,Diabetes,Chest Pain,High,Cardiology
+2,167,101,98.2,None,Chest Pain,High,Cardiology
+37,107,138,101.2,Heart Disease,Headache,High,Neurology
+31,161,120,98.6,Hypertension,Chest Pain,High,Cardiology
+2,113,121,102.4,Hypertension,Chest Pain,High,Cardiology
+10,113,97,101.6,Heart Disease,Headache,Medium,Neurology
+18,177,61,97.2,Heart Disease,Chest Pain,High,Cardiology
+10,161,113,101.0,Heart Disease,Fever,High,General Medicine
+22,139,86,97.8,Hypertension,Chest Pain,Low,Cardiology
+75,92,129,99.9,None,Chest Pain,High,Cardiology
+19,174,73,102.3,Heart Disease,Chest Pain,High,Cardiology
+56,164,83,103.2,None,Breathing Issue,High,Emergency
+19,157,75,103.2,Hypertension,Chest Pain,High,Cardiology
+52,180,128,97.8,Diabetes,Chest Pain,High,Cardiology
+34,127,127,97.5,None,Breathing Issue,High,Emergency
+50,160,122,97.2,Heart Disease,Chest Pain,High,Cardiology
+74,171,133,99.7,None,Breathing Issue,High,Emergency
+8,142,79,97.9,Heart Disease,Headache,Medium,Neurology
+80,117,103,102.7,Hypertension,Breathing Issue,High,Emergency
+23,145,114,103.8,Heart Disease,Chest Pain,High,Cardiology
+74,92,140,97.4,Hypertension,Chest Pain,High,Cardiology
+84,175,122,97.2,Heart Disease,Breathing Issue,High,Emergency
+45,159,93,99.5,Diabetes,Breathing Issue,Medium,Emergency
+25,107,112,97.9,Heart Disease,Headache,Low,Neurology
+66,139,115,97.1,Heart Disease,Fever,Low,General Medicine
+72,145,116,98.0,None,Breathing Issue,Medium,Emergency
+27,91,110,103.3,Heart Disease,Headache,High,Neurology
+71,166,77,100.1,Diabetes,Headache,High,Neurology
+68,123,71,102.8,None,Breathing Issue,High,Emergency
+80,126,83,103.7,Hypertension,Breathing Issue,High,Emergency
+12,135,124,100.6,Heart Disease,Fever,High,General Medicine
+43,117,117,99.6,None,Fever,Low,General Medicine
+35,106,127,99.3,Hypertension,Headache,High,Neurology
+29,133,85,99.5,Heart Disease,Breathing Issue,Low,Emergency
+15,162,110,102.5,None,Fever,High,General Medicine
+30,108,104,100.8,Heart Disease,Fever,Medium,General Medicine
+14,152,83,99.2,None,Breathing Issue,Medium,Emergency
+33,100,101,102.6,Heart Disease,Fever,High,General Medicine
+81,134,122,99.5,None,Chest Pain,High,Cardiology
+29,164,65,100.2,Heart Disease,Headache,High,Neurology
+85,140,90,100.7,None,Breathing Issue,Medium,Emergency
+80,101,140,101.5,Diabetes,Breathing Issue,High,Emergency
+67,152,122,100.9,Heart Disease,Fever,High,General Medicine
+34,159,113,97.1,Heart Disease,Breathing Issue,Medium,Emergency
+19,109,107,101.7,Diabetes,Headache,Medium,Neurology
+58,108,108,101.5,Hypertension,Chest Pain,Medium,Cardiology
+51,133,127,102.0,Diabetes,Breathing Issue,High,Emergency
+11,153,115,100.5,None,Breathing Issue,Medium,Emergency
+53,136,79,103.2,None,Chest Pain,High,Cardiology
+89,98,127,98.4,Hypertension,Breathing Issue,High,Emergency
+65,90,64,98.3,None,Breathing Issue,Low,Emergency
+17,156,67,103.9,Diabetes,Headache,High,Neurology
+50,148,101,98.0,Hypertension,Fever,Medium,General Medicine
+77,99,133,100.3,None,Fever,High,General Medicine
+24,99,87,101.7,None,Fever,Medium,General Medicine
+30,167,119,103.0,None,Headache,High,Neurology
+84,131,118,100.0,None,Chest Pain,Low,Cardiology
+75,139,68,103.4,Heart Disease,Headache,High,Neurology
+17,120,69,103.5,None,Chest Pain,High,Cardiology
+68,118,77,97.4,Diabetes,Fever,Low,General Medicine
+19,147,63,98.6,Heart Disease,Fever,Medium,General Medicine
+65,115,92,97.0,None,Chest Pain,Low,Cardiology
+68,126,123,99.0,Diabetes,Chest Pain,High,Cardiology
+48,108,127,102.0,Hypertension,Fever,High,General Medicine
+34,114,101,103.2,Hypertension,Chest Pain,High,Cardiology
+70,115,132,103.1,Hypertension,Breathing Issue,High,Emergency
+20,98,78,97.2,Heart Disease,Fever,Low,General Medicine
+70,124,73,98.1,Hypertension,Headache,Low,Neurology
+10,141,96,102.0,Hypertension,Breathing Issue,Medium,Emergency
+70,170,109,102.3,Hypertension,Breathing Issue,High,Emergency
+35,149,124,97.6,Heart Disease,Fever,High,General Medicine
+22,118,122,98.4,Hypertension,Chest Pain,High,Cardiology
+63,133,107,101.7,None,Headache,Medium,Neurology
+30,140,127,101.3,Diabetes,Fever,High,General Medicine
+29,166,124,100.1,None,Breathing Issue,High,Emergency
+87,135,83,97.2,Diabetes,Chest Pain,Low,Cardiology
+30,138,75,99.2,Heart Disease,Headache,Low,Neurology
+66,159,99,99.7,Diabetes,Fever,Medium,General Medicine
+56,117,79,103.5,Heart Disease,Fever,High,General Medicine
+45,165,107,103.7,Hypertension,Headache,High,Neurology
+39,132,137,99.3,None,Fever,High,General Medicine
+61,167,125,98.9,Heart Disease,Breathing Issue,High,Emergency
+28,111,70,103.1,Hypertension,Fever,High,General Medicine
+7,105,60,103.4,Heart Disease,Breathing Issue,High,Emergency
+3,166,132,97.8,Hypertension,Headache,High,Neurology
+21,145,122,98.5,Hypertension,Fever,High,General Medicine
+90,128,94,99.7,Heart Disease,Headache,Low,Neurology
+22,114,83,102.6,Hypertension,Breathing Issue,High,Emergency
+35,175,106,102.9,Hypertension,Chest Pain,High,Cardiology
+56,142,127,97.9,Heart Disease,Fever,High,General Medicine
+61,162,133,101.5,None,Fever,High,General Medicine
+30,168,126,101.5,Heart Disease,Headache,High,Neurology
+86,139,119,101.3,Hypertension,Headache,Medium,Neurology
+41,168,60,97.6,Diabetes,Headache,High,Neurology
+34,110,124,101.4,Heart Disease,Breathing Issue,High,Emergency
+70,95,64,102.4,Heart Disease,Chest Pain,High,Cardiology
+82,152,129,100.8,Heart Disease,Fever,High,General Medicine
+75,112,95,103.5,Diabetes,Chest Pain,High,Cardiology
+84,91,66,100.3,Heart Disease,Headache,Medium,Neurology
+69,125,91,103.4,Heart Disease,Headache,High,Neurology
+38,120,77,102.6,Hypertension,Fever,High,General Medicine
+49,124,87,100.9,Heart Disease,Headache,Medium,Neurology
+7,172,84,97.4,Diabetes,Headache,High,Neurology
+33,162,85,102.3,Heart Disease,Chest Pain,High,Cardiology
+75,166,69,102.8,Diabetes,Chest Pain,High,Cardiology
+32,139,83,97.0,Hypertension,Headache,Low,Neurology
+16,170,61,98.0,Hypertension,Headache,High,Neurology
+9,163,86,103.7,Diabetes,Breathing Issue,High,Emergency
+24,112,102,99.2,Heart Disease,Fever,Low,General Medicine
+42,129,76,97.0,None,Breathing Issue,Low,Emergency
+62,113,125,99.3,Hypertension,Chest Pain,High,Cardiology
+55,137,91,101.6,Diabetes,Headache,Medium,Neurology
+8,166,136,101.7,Hypertension,Fever,High,General Medicine
+81,171,77,103.4,Heart Disease,Chest Pain,High,Cardiology
+70,116,137,101.8,Hypertension,Headache,High,Neurology
+21,160,122,99.2,Diabetes,Chest Pain,High,Cardiology
+23,92,118,103.3,None,Headache,High,Neurology
+56,116,113,99.3,Heart Disease,Headache,Low,Neurology
+37,176,136,97.0,Heart Disease,Chest Pain,High,Cardiology
+55,141,86,101.6,Heart Disease,Chest Pain,Medium,Cardiology
+86,174,135,100.2,Diabetes,Fever,High,General Medicine
+30,116,126,100.1,Heart Disease,Headache,High,Neurology
+77,99,110,101.4,Hypertension,Headache,Medium,Neurology
+7,132,102,100.6,Heart Disease,Headache,Medium,Neurology
+41,151,101,103.9,None,Headache,High,Neurology
+2,149,74,101.9,Diabetes,Headache,Medium,Neurology
+88,154,64,99.8,Hypertension,Fever,Medium,General Medicine
+48,166,103,98.2,None,Headache,High,Neurology
+2,95,95,98.7,Hypertension,Chest Pain,Low,Cardiology
+45,153,71,102.5,Hypertension,Fever,High,General Medicine
+79,153,108,97.4,Hypertension,Headache,Medium,Neurology
+20,100,123,103.8,Hypertension,Headache,High,Neurology
+45,156,106,102.5,Hypertension,Chest Pain,High,Cardiology
+31,101,108,103.9,None,Fever,High,General Medicine
+48,110,76,97.9,Heart Disease,Breathing Issue,Low,Emergency
+44,172,118,100.4,None,Chest Pain,High,Cardiology
+3,180,103,104.0,Diabetes,Fever,High,General Medicine
+65,134,128,100.9,Heart Disease,Fever,High,General Medicine
+42,106,93,97.3,Heart Disease,Fever,Low,General Medicine
+69,90,67,97.1,Hypertension,Breathing Issue,Low,Emergency
+47,148,77,100.4,Hypertension,Chest Pain,Medium,Cardiology
+37,160,99,101.8,None,Fever,Medium,General Medicine
+85,168,104,100.5,None,Breathing Issue,High,Emergency
+46,176,95,100.7,Heart Disease,Breathing Issue,High,Emergency
+90,98,136,101.9,Heart Disease,Breathing Issue,High,Emergency
+28,171,69,100.6,Diabetes,Breathing Issue,High,Emergency
+41,111,113,98.4,Hypertension,Breathing Issue,Low,Emergency
+31,141,92,98.3,Diabetes,Breathing Issue,Medium,Emergency
+67,170,83,101.3,None,Chest Pain,High,Cardiology
+84,91,102,101.9,Diabetes,Headache,Medium,Neurology
+78,122,119,98.8,Heart Disease,Chest Pain,Low,Cardiology
+26,95,111,103.3,Heart Disease,Chest Pain,High,Cardiology
+48,114,73,98.4,Diabetes,Breathing Issue,Low,Emergency
+34,109,60,98.5,Diabetes,Fever,Low,General Medicine
+20,140,133,102.4,Diabetes,Fever,High,General Medicine
+17,100,101,99.0,Hypertension,Breathing Issue,Low,Emergency
+64,99,133,101.6,Heart Disease,Breathing Issue,High,Emergency
+89,164,86,99.2,Hypertension,Breathing Issue,High,Emergency
+19,146,134,103.3,Heart Disease,Breathing Issue,High,Emergency
+64,104,121,99.0,Heart Disease,Breathing Issue,High,Emergency
+6,105,72,103.3,None,Chest Pain,High,Cardiology
+16,179,135,97.3,Heart Disease,Fever,High,General Medicine
+41,159,132,102.8,None,Fever,High,General Medicine
+71,129,87,99.5,None,Breathing Issue,Low,Emergency
+16,104,126,100.7,Heart Disease,Headache,High,Neurology
+9,98,127,100.7,Diabetes,Chest Pain,High,Cardiology
+54,177,131,101.6,Hypertension,Breathing Issue,High,Emergency
+35,135,128,99.2,Diabetes,Fever,High,General Medicine
+3,147,69,102.4,Heart Disease,Fever,High,General Medicine
+40,93,129,102.3,Diabetes,Chest Pain,High,Cardiology
+65,123,61,101.3,Hypertension,Headache,Medium,Neurology
+85,146,137,103.2,Hypertension,Headache,High,Neurology
+72,174,62,98.5,Heart Disease,Chest Pain,High,Cardiology
+44,104,99,97.7,Diabetes,Fever,Low,General Medicine
+45,166,92,100.0,Diabetes,Chest Pain,High,Cardiology
+7,170,82,100.6,Heart Disease,Headache,High,Neurology
+13,147,107,102.9,Heart Disease,Fever,High,General Medicine
+84,90,77,99.8,Heart Disease,Headache,Low,Neurology
+46,106,94,102.4,None,Fever,High,General Medicine
+79,145,106,99.5,Diabetes,Breathing Issue,Medium,Emergency
+21,146,114,101.5,Diabetes,Fever,Medium,General Medicine
+72,171,67,98.6,Heart Disease,Fever,High,General Medicine
+16,91,126,103.4,None,Headache,High,Neurology
+53,145,106,100.0,Hypertension,Headache,Medium,Neurology
+73,169,108,100.7,Heart Disease,Headache,High,Neurology
+79,157,97,97.4,Heart Disease,Fever,Medium,General Medicine
+73,180,117,97.6,None,Fever,High,General Medicine
+13,123,115,103.1,Heart Disease,Headache,High,Neurology
+75,100,117,97.8,Diabetes,Headache,Low,Neurology
+71,114,123,98.8,Diabetes,Chest Pain,High,Cardiology
+58,130,136,97.8,Diabetes,Fever,High,General Medicine
+77,142,64,99.1,Heart Disease,Chest Pain,Medium,Cardiology
+51,105,87,101.4,None,Breathing Issue,Medium,Emergency
+65,116,97,101.1,Hypertension,Breathing Issue,Medium,Emergency
+83,115,138,99.6,Hypertension,Headache,High,Neurology
+15,103,87,100.6,Diabetes,Chest Pain,Medium,Cardiology
+65,120,128,97.7,Heart Disease,Breathing Issue,High,Emergency
+41,145,133,101.6,None,Headache,High,Neurology
+54,172,104,99.2,Diabetes,Fever,High,General Medicine
+50,140,127,99.4,Diabetes,Breathing Issue,High,Emergency
+12,129,86,97.6,Diabetes,Breathing Issue,Low,Emergency
+38,180,134,104.0,Heart Disease,Fever,High,General Medicine
+61,168,110,101.2,Hypertension,Chest Pain,High,Cardiology
+12,164,81,99.1,Hypertension,Breathing Issue,High,Emergency
+7,101,124,97.6,Heart Disease,Fever,High,General Medicine
+51,131,75,97.1,Hypertension,Fever,Low,General Medicine
+32,155,77,98.0,Heart Disease,Fever,Medium,General Medicine
+62,105,102,99.9,Hypertension,Chest Pain,Low,Cardiology
+86,165,68,103.7,Diabetes,Fever,High,General Medicine
+61,147,109,97.1,Hypertension,Chest Pain,Medium,Cardiology
+41,112,96,98.7,Diabetes,Fever,Low,General Medicine
+84,175,111,99.7,Diabetes,Chest Pain,High,Cardiology
+84,96,131,102.7,Diabetes,Headache,High,Neurology
+56,111,129,101.2,Diabetes,Fever,High,General Medicine
+82,160,122,103.5,Heart Disease,Headache,High,Neurology
+33,129,93,103.0,Hypertension,Headache,High,Neurology
+59,132,96,103.7,Heart Disease,Breathing Issue,High,Emergency
+86,111,96,100.4,Heart Disease,Breathing Issue,Medium,Emergency
+30,162,85,103.5,Diabetes,Breathing Issue,High,Emergency
+84,169,100,101.2,None,Chest Pain,High,Cardiology
+6,113,103,103.4,Hypertension,Breathing Issue,High,Emergency
+12,162,82,101.9,Diabetes,Headache,High,Neurology
+73,154,66,100.7,Heart Disease,Headache,Medium,Neurology
+60,161,63,98.9,Heart Disease,Fever,High,General Medicine
+89,101,133,103.6,Hypertension,Breathing Issue,High,Emergency
+15,141,106,101.8,None,Fever,Medium,General Medicine
+76,152,112,100.1,Diabetes,Fever,Medium,General Medicine
+23,96,111,99.4,None,Headache,Low,Neurology
+89,106,73,100.4,Hypertension,Fever,Medium,General Medicine
+79,163,88,102.2,Diabetes,Chest Pain,High,Cardiology
+23,125,116,102.2,Diabetes,Fever,High,General Medicine
+87,139,134,103.6,Hypertension,Fever,High,General Medicine
+69,144,89,103.3,Diabetes,Chest Pain,High,Cardiology
+25,119,86,103.1,None,Chest Pain,High,Cardiology
+22,179,132,102.0,Heart Disease,Breathing Issue,High,Emergency
+32,176,133,101.2,Diabetes,Chest Pain,High,Cardiology
+4,165,131,100.7,Hypertension,Breathing Issue,High,Emergency
+2,136,101,101.2,Diabetes,Chest Pain,Medium,Cardiology
+1,147,96,103.6,Diabetes,Fever,High,General Medicine
+45,140,113,102.9,Heart Disease,Headache,High,Neurology
+88,112,128,99.2,Hypertension,Breathing Issue,High,Emergency
+4,170,72,97.2,Diabetes,Headache,High,Neurology
+69,95,116,99.8,None,Chest Pain,Low,Cardiology
+50,91,64,98.0,Hypertension,Chest Pain,Low,Cardiology
+4,109,80,98.3,None,Chest Pain,Low,Cardiology
+65,120,62,97.1,Diabetes,Headache,Low,Neurology
+60,157,71,98.3,Hypertension,Headache,Medium,Neurology
+8,118,102,99.5,Diabetes,Breathing Issue,Low,Emergency
+1,171,90,97.2,None,Headache,High,Neurology
+37,180,64,100.0,Heart Disease,Fever,High,General Medicine
+68,120,115,102.9,Hypertension,Fever,High,General Medicine
+84,164,109,97.6,Diabetes,Breathing Issue,High,Emergency
+6,153,99,99.1,Diabetes,Fever,Medium,General Medicine
+5,154,136,97.9,None,Headache,High,Neurology
+37,177,125,99.7,Diabetes,Breathing Issue,High,Emergency
+85,119,71,98.7,Heart Disease,Headache,Low,Neurology
+8,127,118,99.5,None,Fever,Low,General Medicine
+90,90,60,102.3,None,Fever,High,General Medicine
+39,128,68,102.0,None,Breathing Issue,Medium,Emergency
+39,98,119,101.4,Hypertension,Fever,Medium,General Medicine
+62,149,116,99.2,None,Fever,Medium,General Medicine
+58,173,135,101.2,Hypertension,Fever,High,General Medicine
+82,169,75,99.8,Heart Disease,Fever,High,General Medicine
+23,126,79,98.0,Heart Disease,Fever,Low,General Medicine
+35,174,78,98.6,Diabetes,Fever,High,General Medicine
+79,100,107,98.6,Diabetes,Chest Pain,Low,Cardiology
+73,151,109,99.5,None,Breathing Issue,Medium,Emergency
+72,122,103,99.7,None,Fever,Low,General Medicine
+41,172,125,101.1,Heart Disease,Headache,High,Neurology
+76,136,102,102.3,None,Chest Pain,High,Cardiology
+8,178,113,100.8,None,Headache,High,Neurology
+65,116,89,98.6,Diabetes,Chest Pain,Low,Cardiology
+60,172,121,102.7,Heart Disease,Headache,High,Neurology
+38,103,78,100.5,Hypertension,Headache,Medium,Neurology
+52,157,102,99.7,None,Headache,Medium,Neurology
+89,163,133,99.9,Diabetes,Chest Pain,High,Cardiology
+31,156,103,103.5,Hypertension,Breathing Issue,High,Emergency
+50,150,92,103.2,Hypertension,Chest Pain,High,Cardiology
+14,158,96,100.4,Diabetes,Fever,Medium,General Medicine
+58,109,136,97.8,Diabetes,Breathing Issue,High,Emergency
+45,103,94,101.8,Diabetes,Breathing Issue,Medium,Emergency
+33,168,107,99.0,Hypertension,Fever,High,General Medicine
+68,128,140,98.1,Heart Disease,Fever,High,General Medicine
+24,157,127,97.1,None,Fever,High,General Medicine
+43,171,86,99.9,None,Breathing Issue,High,Emergency
+32,124,91,99.0,None,Headache,Low,Neurology
+18,157,126,100.3,Diabetes,Chest Pain,High,Cardiology
+88,144,122,100.3,Heart Disease,Fever,High,General Medicine
+72,150,86,97.4,Heart Disease,Breathing Issue,Medium,Emergency
+62,161,128,99.3,Hypertension,Chest Pain,High,Cardiology
+70,168,110,98.5,None,Chest Pain,High,Cardiology
+62,134,85,102.5,None,Chest Pain,High,Cardiology
+51,94,76,99.4,Diabetes,Chest Pain,Low,Cardiology
+71,107,76,102.2,Hypertension,Breathing Issue,High,Emergency
+42,136,126,102.8,Heart Disease,Chest Pain,High,Cardiology
+32,105,132,101.7,None,Chest Pain,High,Cardiology
+30,180,122,103.8,None,Breathing Issue,High,Emergency
+27,107,99,103.5,Diabetes,Headache,High,Neurology
+69,140,126,100.2,None,Breathing Issue,High,Emergency
+38,166,121,99.7,Heart Disease,Headache,High,Neurology
+7,180,135,103.0,Hypertension,Chest Pain,High,Cardiology
+42,170,104,103.9,None,Breathing Issue,High,Emergency
+8,142,134,97.1,Hypertension,Headache,High,Neurology
+83,108,93,102.1,Hypertension,Breathing Issue,High,Emergency
+23,138,77,101.5,Hypertension,Headache,Medium,Neurology
+51,106,115,97.8,Heart Disease,Headache,Low,Neurology
+84,107,107,98.6,Heart Disease,Fever,Low,General Medicine
+85,176,114,103.3,Hypertension,Breathing Issue,High,Emergency
+5,147,91,99.5,Hypertension,Breathing Issue,Medium,Emergency
+78,119,115,98.6,Heart Disease,Breathing Issue,Low,Emergency
+14,125,135,99.6,Hypertension,Headache,High,Neurology
+4,160,71,101.5,None,Breathing Issue,Medium,Emergency
+67,141,126,99.7,None,Chest Pain,High,Cardiology
+62,103,100,100.0,Diabetes,Headache,Low,Neurology
+6,142,91,102.0,Diabetes,Fever,Medium,General Medicine
+20,168,102,99.1,None,Fever,High,General Medicine
+48,172,129,103.0,None,Breathing Issue,High,Emergency
+25,142,109,102.5,None,Fever,High,General Medicine
+28,107,129,104.0,None,Breathing Issue,High,Emergency
+62,137,134,99.9,None,Headache,High,Neurology
+83,161,137,102.9,Heart Disease,Fever,High,General Medicine
+36,135,104,103.9,Diabetes,Headache,High,Neurology
+71,120,140,97.2,Hypertension,Fever,High,General Medicine
+85,124,108,102.3,Hypertension,Chest Pain,High,Cardiology
+34,133,107,97.4,None,Fever,Low,General Medicine
+33,140,104,99.0,Diabetes,Breathing Issue,Low,Emergency
+37,170,68,103.6,None,Fever,High,General Medicine
+36,160,87,98.4,Heart Disease,Chest Pain,Medium,Cardiology
+17,114,101,98.1,Diabetes,Fever,Low,General Medicine
+53,137,95,103.7,Diabetes,Chest Pain,High,Cardiology
+87,117,137,101.4,Heart Disease,Chest Pain,High,Cardiology
+61,111,80,101.7,Heart Disease,Chest Pain,Medium,Cardiology
+16,178,116,100.2,Heart Disease,Breathing Issue,High,Emergency
+42,178,88,103.3,None,Breathing Issue,High,Emergency
+21,103,136,98.6,Hypertension,Headache,High,Neurology
+68,114,117,101.8,None,Headache,Medium,Neurology
+88,91,137,102.9,Heart Disease,Breathing Issue,High,Emergency
+78,172,83,101.2,None,Fever,High,General Medicine
+74,130,128,98.2,Heart Disease,Fever,High,General Medicine
+79,148,110,100.5,None,Breathing Issue,Medium,Emergency
+26,174,74,101.9,None,Headache,High,Neurology
+65,109,90,97.5,Hypertension,Chest Pain,Low,Cardiology
+47,93,92,97.6,Diabetes,Breathing Issue,Low,Emergency
+25,95,99,103.2,Heart Disease,Chest Pain,High,Cardiology
+32,144,66,103.8,None,Fever,High,General Medicine
+81,147,91,103.5,None,Fever,High,General Medicine
+31,172,118,103.1,Diabetes,Fever,High,General Medicine
+69,121,76,99.2,Hypertension,Breathing Issue,Low,Emergency
+70,129,80,101.0,Hypertension,Breathing Issue,Medium,Emergency
+88,119,66,101.0,Diabetes,Chest Pain,Medium,Cardiology
+61,134,63,99.7,None,Headache,Low,Neurology
+30,123,127,98.7,None,Chest Pain,High,Cardiology
+33,168,84,102.4,Heart Disease,Breathing Issue,High,Emergency
+66,116,115,98.0,None,Breathing Issue,Low,Emergency
+65,90,132,102.6,Diabetes,Headache,High,Neurology
+34,109,108,103.1,Hypertension,Fever,High,General Medicine
+5,177,70,101.1,Hypertension,Breathing Issue,High,Emergency
+22,125,90,100.0,Heart Disease,Breathing Issue,Low,Emergency
+53,115,118,101.9,Diabetes,Breathing Issue,Medium,Emergency
+9,119,64,102.4,None,Fever,High,General Medicine
+66,177,75,99.4,Hypertension,Fever,High,General Medicine
+51,140,106,103.9,Hypertension,Headache,High,Neurology
+17,142,116,100.5,Heart Disease,Breathing Issue,Medium,Emergency
+43,132,140,100.8,Hypertension,Breathing Issue,High,Emergency
+24,174,125,101.7,Heart Disease,Breathing Issue,High,Emergency
+87,134,68,102.1,Diabetes,Chest Pain,High,Cardiology
+58,163,87,98.8,Heart Disease,Breathing Issue,High,Emergency
+85,115,120,98.4,None,Breathing Issue,Low,Emergency
+41,129,135,101.6,Diabetes,Headache,High,Neurology
+65,135,60,102.5,None,Chest Pain,High,Cardiology
+24,128,118,97.8,Heart Disease,Headache,Low,Neurology
+36,150,128,97.4,Diabetes,Fever,High,General Medicine
+27,172,80,101.6,None,Breathing Issue,High,Emergency
+70,111,131,101.0,Heart Disease,Fever,High,General Medicine
+33,100,70,102.5,Hypertension,Breathing Issue,High,Emergency
+22,154,76,99.6,Heart Disease,Chest Pain,Medium,Cardiology
+30,151,72,97.8,Diabetes,Breathing Issue,Medium,Emergency
+2,163,118,97.6,None,Breathing Issue,High,Emergency
+12,94,73,99.3,Diabetes,Headache,Low,Neurology
+9,125,125,103.7,None,Fever,High,General Medicine
+54,170,73,98.4,Diabetes,Breathing Issue,High,Emergency
+12,133,84,99.4,None,Headache,Low,Neurology
+38,127,131,97.6,Diabetes,Fever,High,General Medicine
+74,148,113,102.1,Heart Disease,Breathing Issue,High,Emergency
+2,100,132,103.7,None,Breathing Issue,High,Emergency
+37,144,139,98.9,Heart Disease,Fever,High,General Medicine
+17,95,77,103.5,None,Headache,High,Neurology
+87,140,109,102.2,None,Fever,High,General Medicine
+31,154,71,102.5,None,Chest Pain,High,Cardiology
+53,134,121,97.0,None,Breathing Issue,High,Emergency
+73,113,116,98.9,None,Headache,Low,Neurology
+69,131,115,103.8,None,Fever,High,General Medicine
+86,146,128,98.8,Hypertension,Breathing Issue,High,Emergency
+72,91,64,103.0,Hypertension,Headache,High,Neurology
+26,113,84,101.5,None,Chest Pain,Medium,Cardiology
+23,135,80,100.8,None,Chest Pain,Medium,Cardiology
+56,131,104,99.4,None,Headache,Low,Neurology
+44,166,136,101.7,None,Headache,High,Neurology
+66,171,73,101.2,Heart Disease,Headache,High,Neurology
+77,144,108,97.6,None,Chest Pain,Medium,Cardiology
+15,91,137,97.1,Diabetes,Headache,High,Neurology
+38,165,102,102.5,Diabetes,Breathing Issue,High,Emergency
+55,143,104,102.8,Diabetes,Chest Pain,High,Cardiology
+13,173,71,100.0,Heart Disease,Chest Pain,High,Cardiology
+25,95,134,100.8,None,Chest Pain,High,Cardiology
+29,138,126,103.5,None,Headache,High,Neurology
+58,139,115,99.7,Diabetes,Breathing Issue,Low,Emergency
+27,103,75,100.7,Heart Disease,Fever,Medium,General Medicine
+65,127,90,99.0,None,Chest Pain,Low,Cardiology
+72,163,97,100.4,Heart Disease,Headache,High,Neurology
+35,148,92,97.0,Heart Disease,Fever,Medium,General Medicine
+13,129,117,103.6,None,Fever,High,General Medicine
+40,94,134,103.0,Heart Disease,Headache,High,Neurology
+78,180,122,102.3,Diabetes,Fever,High,General Medicine
+63,108,108,102.1,Diabetes,Headache,High,Neurology
+59,107,127,102.3,Diabetes,Chest Pain,High,Cardiology
+35,147,112,103.8,None,Fever,High,General Medicine
+81,136,129,100.2,None,Chest Pain,High,Cardiology
+53,152,60,102.7,Heart Disease,Fever,High,General Medicine
+64,179,107,100.6,Hypertension,Breathing Issue,High,Emergency
+15,92,130,101.6,None,Breathing Issue,High,Emergency
+63,121,82,97.4,Hypertension,Headache,Low,Neurology
+20,173,75,97.1,Diabetes,Chest Pain,High,Cardiology
+9,93,121,99.0,Diabetes,Breathing Issue,High,Emergency
+39,100,76,102.1,Heart Disease,Headache,High,Neurology
+3,145,137,98.8,Heart Disease,Headache,High,Neurology
+88,100,63,103.7,Hypertension,Headache,High,Neurology
+82,96,62,98.6,Diabetes,Fever,Low,General Medicine
+59,167,116,99.2,Heart Disease,Headache,High,Neurology
+18,95,105,99.5,Heart Disease,Chest Pain,Low,Cardiology
+14,167,112,98.8,Heart Disease,Fever,High,General Medicine
+13,140,113,102.9,Diabetes,Fever,High,General Medicine
+89,107,89,100.1,Hypertension,Breathing Issue,Medium,Emergency
+27,130,72,101.9,Diabetes,Breathing Issue,Medium,Emergency
+77,142,91,103.6,Heart Disease,Fever,High,General Medicine
+59,129,129,101.8,Hypertension,Headache,High,Neurology
+41,170,68,101.8,None,Chest Pain,High,Cardiology
+48,166,73,98.3,Diabetes,Headache,High,Neurology
+21,140,132,98.1,Diabetes,Fever,High,General Medicine
+33,95,88,102.1,None,Breathing Issue,High,Emergency
+33,178,75,101.5,Hypertension,Chest Pain,High,Cardiology
+56,133,80,101.2,Hypertension,Headache,Medium,Neurology
+64,158,75,97.6,Hypertension,Fever,Medium,General Medicine
+34,164,112,99.7,Diabetes,Headache,High,Neurology
+23,123,67,99.6,None,Chest Pain,Low,Cardiology
+47,93,111,102.6,Diabetes,Breathing Issue,High,Emergency
+88,127,85,101.6,Heart Disease,Chest Pain,Medium,Cardiology
+63,173,135,98.8,Diabetes,Chest Pain,High,Cardiology
+54,175,72,102.2,Heart Disease,Fever,High,General Medicine
+53,176,102,99.5,Hypertension,Fever,High,General Medicine
+60,143,69,102.9,None,Breathing Issue,High,Emergency
+9,142,71,99.8,Heart Disease,Chest Pain,Medium,Cardiology
+39,167,75,97.5,None,Chest Pain,High,Cardiology
+7,174,102,103.1,Hypertension,Breathing Issue,High,Emergency
+6,150,102,99.9,Diabetes,Fever,Medium,General Medicine
+17,103,99,100.2,Hypertension,Chest Pain,Medium,Cardiology
+27,140,88,102.6,Diabetes,Headache,High,Neurology
+14,103,126,97.5,None,Breathing Issue,High,Emergency
+52,155,139,103.6,Hypertension,Chest Pain,High,Cardiology
+1,179,87,99.1,Hypertension,Breathing Issue,High,Emergency
+11,102,81,102.1,None,Chest Pain,High,Cardiology
+47,132,139,102.4,Diabetes,Breathing Issue,High,Emergency
+44,161,104,99.7,Diabetes,Chest Pain,High,Cardiology
+72,127,75,100.0,None,Breathing Issue,Low,Emergency
+11,131,120,103.8,None,Fever,High,General Medicine
+89,143,127,101.7,Diabetes,Fever,High,General Medicine
+26,169,110,100.0,Heart Disease,Chest Pain,High,Cardiology
+87,121,134,103.0,None,Fever,High,General Medicine
+27,90,78,97.5,Heart Disease,Headache,Low,Neurology
+79,177,72,102.6,Diabetes,Breathing Issue,High,Emergency
+84,100,112,99.6,Heart Disease,Chest Pain,Low,Cardiology
+64,164,77,101.9,None,Breathing Issue,High,Emergency
+27,162,116,98.7,Diabetes,Breathing Issue,High,Emergency
+70,137,139,97.5,None,Headache,High,Neurology
+43,118,76,98.8,None,Fever,Low,General Medicine
+70,164,81,102.8,Diabetes,Breathing Issue,High,Emergency
+49,92,116,99.0,Hypertension,Chest Pain,Low,Cardiology
+1,119,66,103.9,Heart Disease,Headache,High,Neurology
+8,118,119,100.6,Heart Disease,Fever,Medium,General Medicine
+27,152,84,97.6,Hypertension,Headache,Medium,Neurology
+73,175,93,103.5,Diabetes,Breathing Issue,High,Emergency
+58,148,78,97.6,None,Fever,Medium,General Medicine
+14,153,126,97.4,Heart Disease,Breathing Issue,High,Emergency
+39,154,85,101.7,Hypertension,Fever,Medium,General Medicine
+74,103,88,99.6,Diabetes,Fever,Low,General Medicine
+16,99,63,101.6,Hypertension,Headache,Medium,Neurology
+21,149,90,102.0,Heart Disease,Headache,Medium,Neurology
+71,154,127,100.5,Diabetes,Chest Pain,High,Cardiology
+58,168,65,98.7,Hypertension,Fever,High,General Medicine
+22,132,78,97.9,Hypertension,Chest Pain,Low,Cardiology
+40,136,85,98.5,Diabetes,Breathing Issue,Low,Emergency
+9,138,86,98.6,Diabetes,Fever,Low,General Medicine
+71,147,85,101.1,Heart Disease,Headache,Medium,Neurology
+18,132,140,101.3,None,Headache,High,Neurology
+57,126,67,97.7,Heart Disease,Chest Pain,Low,Cardiology
+85,109,80,98.7,None,Headache,Low,Neurology
+85,134,132,97.4,Diabetes,Headache,High,Neurology
+73,158,67,97.8,Diabetes,Headache,Medium,Neurology
+52,105,77,97.7,None,Breathing Issue,Low,Emergency
+40,170,118,100.0,Heart Disease,Headache,High,Neurology
+42,119,97,101.6,Heart Disease,Chest Pain,Medium,Cardiology
+32,99,125,103.8,Hypertension,Breathing Issue,High,Emergency
+60,134,130,98.8,Diabetes,Chest Pain,High,Cardiology
+46,129,101,103.2,Heart Disease,Fever,High,General Medicine
+4,173,112,102.2,Diabetes,Fever,High,General Medicine
+34,157,84,101.2,Diabetes,Headache,Medium,Neurology
+27,109,96,103.1,Diabetes,Fever,High,General Medicine
+40,128,116,100.0,Hypertension,Chest Pain,Low,Cardiology
+22,149,97,99.1,Diabetes,Breathing Issue,Medium,Emergency
+66,129,135,103.9,Heart Disease,Fever,High,General Medicine
+9,174,107,98.9,Diabetes,Chest Pain,High,Cardiology
+71,151,134,97.4,Heart Disease,Headache,High,Neurology
+38,105,81,102.4,Diabetes,Headache,High,Neurology
+31,115,87,99.4,Diabetes,Breathing Issue,Low,Emergency
+70,154,123,97.3,Diabetes,Fever,High,General Medicine
+63,165,68,101.6,Hypertension,Breathing Issue,High,Emergency
+87,110,64,101.8,Heart Disease,Fever,Medium,General Medicine
+8,96,92,102.3,Heart Disease,Chest Pain,High,Cardiology
+82,91,86,97.6,Diabetes,Breathing Issue,Low,Emergency
+50,138,89,99.4,Heart Disease,Chest Pain,Low,Cardiology
+54,153,76,102.5,Diabetes,Breathing Issue,High,Emergency
+14,121,80,101.9,Hypertension,Breathing Issue,Medium,Emergency
+33,166,92,99.2,Heart Disease,Breathing Issue,High,Emergency
+49,107,137,103.1,None,Headache,High,Neurology
+80,134,117,97.9,None,Chest Pain,Low,Cardiology
+37,140,124,103.4,None,Fever,High,General Medicine
+74,120,91,102.6,None,Headache,High,Neurology
+41,122,140,99.1,None,Headache,High,Neurology
+13,117,93,102.4,Heart Disease,Chest Pain,High,Cardiology
+85,116,74,98.6,None,Headache,Low,Neurology
+62,102,76,103.6,Hypertension,Headache,High,Neurology
+13,167,74,97.8,Hypertension,Headache,High,Neurology
+35,91,112,97.8,None,Chest Pain,Low,Cardiology
+22,131,95,103.8,Hypertension,Headache,High,Neurology
+56,97,72,99.5,None,Headache,Low,Neurology
+88,162,115,99.3,Hypertension,Headache,High,Neurology
+63,122,140,101.5,Diabetes,Headache,High,Neurology
+41,149,95,97.7,Hypertension,Fever,Medium,General Medicine
+74,105,113,98.7,Heart Disease,Headache,Low,Neurology
+24,140,97,100.4,None,Breathing Issue,Medium,Emergency
+78,147,105,97.8,Heart Disease,Chest Pain,Medium,Cardiology
+75,134,71,102.0,None,Chest Pain,Medium,Cardiology
+87,146,102,100.9,Diabetes,Fever,Medium,General Medicine
+36,97,111,100.8,Heart Disease,Breathing Issue,Medium,Emergency
+38,138,95,100.4,Diabetes,Headache,Medium,Neurology
+27,132,95,103.3,None,Breathing Issue,High,Emergency
+87,151,117,100.7,Heart Disease,Chest Pain,Medium,Cardiology
+47,140,72,99.8,Hypertension,Breathing Issue,Low,Emergency
+54,180,86,102.9,Hypertension,Fever,High,General Medicine
+58,166,93,101.7,Hypertension,Headache,High,Neurology
+12,94,64,100.9,Heart Disease,Headache,Medium,Neurology
+74,141,127,103.9,None,Headache,High,Neurology
+79,146,139,100.8,Hypertension,Chest Pain,High,Cardiology
+31,96,97,102.9,Diabetes,Breathing Issue,High,Emergency
+55,141,64,97.1,Hypertension,Chest Pain,Medium,Cardiology
+75,151,67,101.7,Heart Disease,Fever,Medium,General Medicine
+87,154,122,99.8,Diabetes,Fever,High,General Medicine
+14,102,107,100.8,None,Fever,Medium,General Medicine
+87,149,131,100.3,Diabetes,Breathing Issue,High,Emergency
+16,179,108,98.9,Hypertension,Headache,High,Neurology
+19,157,111,103.0,Heart Disease,Chest Pain,High,Cardiology
+3,157,138,103.0,Diabetes,Breathing Issue,High,Emergency
+90,158,90,100.9,Heart Disease,Breathing Issue,Medium,Emergency
+48,163,75,102.4,None,Headache,High,Neurology
+35,92,83,98.0,Heart Disease,Breathing Issue,Low,Emergency
+45,152,73,100.4,None,Headache,Medium,Neurology
+6,154,61,98.6,Hypertension,Breathing Issue,Medium,Emergency
+80,91,89,100.8,Hypertension,Breathing Issue,Medium,Emergency
+89,146,76,98.2,None,Fever,Medium,General Medicine
+38,91,76,98.6,Hypertension,Breathing Issue,Low,Emergency
+6,159,101,103.5,Hypertension,Chest Pain,High,Cardiology
+34,102,76,101.0,Heart Disease,Breathing Issue,Medium,Emergency
+58,144,85,98.2,Diabetes,Fever,Medium,General Medicine
+34,107,107,99.9,None,Headache,Low,Neurology
+62,163,135,100.0,Diabetes,Breathing Issue,High,Emergency
+64,126,110,98.6,None,Chest Pain,Low,Cardiology
+68,105,116,97.0,Heart Disease,Fever,Low,General Medicine
+69,177,137,98.4,Hypertension,Breathing Issue,High,Emergency
+79,101,131,102.4,None,Fever,High,General Medicine
+47,158,140,102.2,Hypertension,Headache,High,Neurology
+33,129,100,103.6,None,Fever,High,General Medicine
+5,177,131,98.4,Hypertension,Chest Pain,High,Cardiology
+79,151,67,100.8,Diabetes,Breathing Issue,Medium,Emergency
+57,121,89,100.1,Heart Disease,Breathing Issue,Medium,Emergency
+31,171,139,101.2,Heart Disease,Chest Pain,High,Cardiology
+41,162,84,97.2,Heart Disease,Fever,High,General Medicine
+82,106,82,98.7,Hypertension,Fever,Low,General Medicine
+80,130,90,103.5,Hypertension,Chest Pain,High,Cardiology
+58,105,107,98.5,Heart Disease,Breathing Issue,Low,Emergency
+28,127,108,97.1,Diabetes,Headache,Low,Neurology
+42,110,66,103.8,Hypertension,Breathing Issue,High,Emergency
+50,154,77,99.3,Hypertension,Chest Pain,Medium,Cardiology
+84,101,123,98.7,None,Breathing Issue,High,Emergency
+44,94,72,97.1,Diabetes,Headache,Low,Neurology
+9,119,82,103.2,None,Breathing Issue,High,Emergency
+75,172,127,99.3,None,Breathing Issue,High,Emergency
+76,109,91,100.6,Hypertension,Fever,Medium,General Medicine
+19,90,68,100.1,Hypertension,Chest Pain,Medium,Cardiology
+34,100,80,97.3,Diabetes,Chest Pain,Low,Cardiology
+86,96,76,103.5,None,Fever,High,General Medicine
+4,144,122,100.7,Hypertension,Headache,High,Neurology
+5,96,116,98.9,Hypertension,Breathing Issue,Low,Emergency
+16,94,116,102.8,Hypertension,Headache,High,Neurology
+24,165,122,102.1,Diabetes,Breathing Issue,High,Emergency
+54,121,110,97.6,Hypertension,Breathing Issue,Low,Emergency
